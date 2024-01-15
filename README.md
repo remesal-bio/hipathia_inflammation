@@ -1,10 +1,10 @@
 # Hipathia Inflammation 
-# Identificación de dianas de microRNAs con impacto en el mapa mecanístico de Inflamación mediante Machine Learning
-
+## Identificación de dianas de microRNAs con impacto en el mapa mecanístico de Inflamación mediante Machine Learning
+ <br />
 El enlace con todos los archivos necesarios para llevar a cabo la ejecución de los scripts se encuentra en el siguiente enlace (algunos son muy pesados):
 https://drive.google.com/drive/folders/1wW4iBG6oe6akyaojdXkAsHIPfEpL1H-P?usp=drive_link
-
-
+<br />
+<br />
 El repositorio consta de los siguientes archivos:
 
 ●	Script 1: rename.R. Script para estandarizar el nombre de las evidencias de miRTarBase. Creación propia.
