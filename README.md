@@ -1,6 +1,6 @@
 # hipathia_inflammation 
 
-El enlace con todos los archivos necesarios para llevar a cabo la ejecución de los scripts se encuentra en el siguiente enlace:
+El enlace con todos los archivos necesarios para llevar a cabo la ejecución de los scripts se encuentra en el siguiente enlace (algunos son muy pesados):
 https://drive.google.com/drive/folders/1wW4iBG6oe6akyaojdXkAsHIPfEpL1H-P?usp=drive_link
 
 
