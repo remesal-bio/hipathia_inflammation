@@ -16,4 +16,3 @@ El repositorio consta de los siguientes archivos:
 ●	Script 4. run.sh. Comandos utilizados en la terminal bash para el análisis con DRExM³L. Creación propia.
 
 ●	Script 5. drexml_analisis. Script para el análisis de los resultados de DRExM³L y para la obtención de gráficos relacionados con estos datos. Creación propia.
-
